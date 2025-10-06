@@ -59,3 +59,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## add command for generate Class data (Auth/UserRegistredData) app/Data
+## add command for generate Class action (Auth/UserRegistredAction) app/Actions
+## add command for generate Class resource (UserResource) 
