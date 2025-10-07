@@ -63,4 +63,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## add command for generate Class data (Auth/UserRegistredData) app/Data
 ## add command for generate Class action (Auth/UserRegistredAction) app/Actions
-## add command for generate Class resource (UserResource) 
+## add command for generate Class resource (UserResource)
+## in the UserController first run action and return resource
